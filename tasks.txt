@@ -1,0 +1,27 @@
+Goals:
+
+Create a poker game with multiple players. Each player should have chips, be able to bet, and have a hand of cards.
+
+All cards should be displayed on an html page.
+Each player should be an object.
+The game should also be an object. The game object should be displayed on the screen.
+
+RULES OF POKER - Texas Hold 'em
+- What each player can do
+    - Check, bet, call, raise, and fold
+- How the turn system works
+    - round 1: everyone gets cards in their hand and they can start the first round of betting
+    - round 2: flop - 3 cards in the middle get turned over. Another round of betting.
+    - round 3: river - 1 more card gets turned over and another round of betting.
+    - round 4: turn - last card gets turned over and the last round of betting goes down.
+- How betting works
+    - Each person gets to decide how much to bet each turn, and other players have to match that amount to stay in.
+- How cards work
+    - ranking:
+- How many cards each person gets
+    - Two cards per person
+    - 5 cards in the middle
+- How the deck of cards works
+    - 52 cards
+    - 4 suits w/ 13 cards each
+    - 2,3,4,5,6,7,8,9,10,J,Q,K,A
